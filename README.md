@@ -1,4 +1,4 @@
-## Hi there 👋
+![nyanyanya](https://github.com/castrum-kremnos/castrum-kremnos/blob/main/IMG_20251016_151752.png)
 
 <!--
 **castrum-kremnos/castrum-kremnos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
